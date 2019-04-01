@@ -34,8 +34,8 @@ class App extends Component {
             <div className="App">
 
                 <Jumbotron>
-                    <h1>Avatar Maker</h1>
-                    <p>Make your own Avatar with React and Fabric.js</p>
+                    <h1>Demo for React with Fabric</h1>
+                    <p>Create your cartoon like Avatar</p>
                 </Jumbotron>
 
                 <div className="main">

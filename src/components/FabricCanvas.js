@@ -2,7 +2,6 @@ import React from 'react';
 import {fabric} from 'fabric';
 import {Button} from 'react-bootstrap';
 
-
 class FabricCanvas extends React.Component {
 
     componentDidMount() {
